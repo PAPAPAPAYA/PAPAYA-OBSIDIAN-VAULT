@@ -1,0 +1,22 @@
+---
+cardTypeID: UNSTABLE_PORTAL
+displayName: 不稳定传送门
+rarity: Uncommon
+myStatusEffects: 无
+category: Bury and buried/Bury
+tags:
+  - OneDeck
+  - Card
+---
+
+# 不稳定传送门
+
+- **Prefab**: `UNSTABLE_PORTAL`
+- **Card Type ID**: `UNSTABLE_PORTAL`
+- **稀有度**: Uncommon
+- **类别**: Bury and buried/Bury
+- **自带状态效果**: 无
+
+## 效果描述
+
+揭晓时:置顶 **1** 友方,埋葬 **1** 友方

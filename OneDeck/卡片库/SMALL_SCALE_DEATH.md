@@ -1,0 +1,22 @@
+---
+cardTypeID: SMALL_SCALE_DEATH
+displayName: 小范围死亡
+rarity: Uncommon
+myStatusEffects: 无
+category: Curse
+tags:
+  - OneDeck
+  - Card
+---
+
+# 小范围死亡
+
+- **Prefab**: `SMALL_SCALE_DEATH`
+- **Card Type ID**: `SMALL_SCALE_DEATH`
+- **稀有度**: Uncommon
+- **类别**: Curse
+- **自带状态效果**: 无
+
+## 效果描述
+
+揭晓时:埋葬后 **2** 卡,增强 **1** 敌方[诅咒]
