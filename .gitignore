@@ -6,5 +6,11 @@
 .vscode/
 .idea/
 
+# Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore temp files
+*.tmp
+*.swp
+*.bak
