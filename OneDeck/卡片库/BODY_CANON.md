@@ -9,8 +9,8 @@ extraDmg: -1
 powerCount: 0
 totalDmg: 1
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 埋葬友方
 ---
 
 # 人间大炮

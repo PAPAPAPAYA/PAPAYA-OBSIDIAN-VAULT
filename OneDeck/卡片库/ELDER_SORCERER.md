@@ -5,8 +5,7 @@ rarity: Rare
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 强化
 ---
 
 # 远古魔法使用者

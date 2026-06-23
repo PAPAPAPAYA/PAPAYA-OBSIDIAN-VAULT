@@ -4,9 +4,7 @@ displayName: 早睡早起
 rarity: Uncommon
 myStatusEffects: 无
 category: _UTILITY
-tags:
-  - OneDeck
-  - Card
+tags: []
 ---
 
 # 早睡早起

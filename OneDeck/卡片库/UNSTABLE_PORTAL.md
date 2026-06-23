@@ -5,8 +5,8 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Bury and buried/Bury
 tags:
-  - OneDeck
-  - Card
+  - 埋葬友方
+  - 预言
 ---
 
 # 不稳定传送门

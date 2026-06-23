@@ -5,8 +5,8 @@ rarity: Common
 myStatusEffects: 无
 category: Bury and buried/Bury
 tags:
-  - OneDeck
-  - Card
+  - 埋葬友方
+  - 埋葬敌方
 ---
 
 # 同路人

@@ -5,8 +5,7 @@ rarity: Rare
 myStatusEffects: 无
 category: Curse
 tags:
-  - OneDeck
-  - Card
+  - 污染
 ---
 
 # 乌合之众

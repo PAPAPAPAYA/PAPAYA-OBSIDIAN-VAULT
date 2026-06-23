@@ -5,8 +5,8 @@ rarity: Common
 myStatusEffects: 无
 category: Conjure
 tags:
-  - OneDeck
-  - Card
+  - 任意门
+  - 埋葬敌方
 ---
 
 # 坠入裂缝

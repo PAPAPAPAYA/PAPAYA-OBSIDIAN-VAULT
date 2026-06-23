@@ -4,9 +4,10 @@ displayName: 高等传送门
 rarity: Uncommon
 myStatusEffects: 无
 category: General
+
+  - 预言
 tags:
-  - OneDeck
-  - Card
+  - 预言
 ---
 
 # 高等传送门

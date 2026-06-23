@@ -9,8 +9,9 @@ extraDmg: 3
 powerCount: 0
 totalDmg: 5
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 伤害
+  - 预言
 ---
 
 # 替死鬼

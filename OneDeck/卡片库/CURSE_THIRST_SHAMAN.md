@@ -5,8 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Curse
 tags:
-  - OneDeck
-  - Card
+  - 强化
 ---
 
 # 咒食的萨满

@@ -5,8 +5,8 @@ rarity: Common
 myStatusEffects: 无
 category: Curse
 tags:
-  - OneDeck
-  - Card
+  - 埋葬友方
+  - 污染
 ---
 
 # 献祭诅咒

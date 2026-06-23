@@ -5,8 +5,8 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
 tags:
-  - OneDeck
-  - Card
+  - 任意门
+  - 埋葬友方
 ---
 
 # 献祭仪式

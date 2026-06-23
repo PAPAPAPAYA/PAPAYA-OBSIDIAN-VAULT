@@ -9,8 +9,9 @@ extraDmg: 0
 powerCount: 0
 totalDmg: 2
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 伤害
+  - 埋葬友方
 ---
 
 # 冥界大炮

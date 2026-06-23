@@ -5,8 +5,8 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 强化
+  - 萦绕
 ---
 
 # 武器精灵

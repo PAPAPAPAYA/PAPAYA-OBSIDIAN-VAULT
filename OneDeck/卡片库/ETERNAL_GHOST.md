@@ -9,8 +9,8 @@ extraDmg: -1
 powerCount: 0
 totalDmg: 1
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 萦绕
 ---
 
 # 不散的恶灵

@@ -9,8 +9,8 @@ extraDmg: 0
 powerCount: 0
 totalDmg: 2
 tags:
-  - OneDeck
-  - Card
+  - 任意门
+  - 伤害
 ---
 
 # 次元虫

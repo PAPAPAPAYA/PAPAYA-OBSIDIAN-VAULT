@@ -5,8 +5,8 @@ rarity: Rare
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 埋葬友方
+  - 预言
 ---
 
 # 推进器

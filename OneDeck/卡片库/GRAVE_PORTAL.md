@@ -5,8 +5,9 @@ rarity: Common
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 埋葬敌方
+  - 预言
 ---
 
 # 冥界裂缝

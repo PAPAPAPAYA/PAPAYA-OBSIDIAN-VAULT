@@ -5,8 +5,9 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 埋葬敌方
+  - 消化
+  - 预言
 ---
 
 # 曼哈顿博士

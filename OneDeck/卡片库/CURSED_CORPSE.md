@@ -9,8 +9,9 @@ extraDmg: -1
 powerCount: 0
 totalDmg: 1
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 伤害
+  - 污染
 ---
 
 # 被诅咒的尸体

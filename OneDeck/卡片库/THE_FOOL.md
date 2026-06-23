@@ -5,8 +5,7 @@ rarity: Common
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 伤害
 ---
 
 # 愚者

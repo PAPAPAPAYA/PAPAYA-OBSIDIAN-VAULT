@@ -5,8 +5,7 @@ rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/Bury
 tags:
-  - OneDeck
-  - Card
+  - 随机埋葬
 ---
 
 # 大范围死亡

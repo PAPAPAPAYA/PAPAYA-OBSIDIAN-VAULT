@@ -5,8 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 伤害
 ---
 
 # 人人为我

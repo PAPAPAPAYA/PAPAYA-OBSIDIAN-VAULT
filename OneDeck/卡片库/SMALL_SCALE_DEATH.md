@@ -5,8 +5,8 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Curse
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 污染
 ---
 
 # 小范围死亡

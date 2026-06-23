@@ -5,8 +5,8 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
 tags:
-  - OneDeck
-  - Card
+  - 埋葬敌方
+  - 萦绕
 ---
 
 # 次元棺材

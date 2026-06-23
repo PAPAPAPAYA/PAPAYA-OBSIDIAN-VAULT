@@ -5,8 +5,7 @@ rarity: Common
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 强化
 ---
 
 # 盲眼战斗牧师

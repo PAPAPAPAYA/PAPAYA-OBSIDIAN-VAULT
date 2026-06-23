@@ -5,8 +5,8 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
 tags:
-  - OneDeck
-  - Card
+  - 吞噬
+  - 埋葬敌方
 ---
 
 # 次元引导者

@@ -9,8 +9,9 @@ extraDmg: 1
 powerCount: 0
 totalDmg: 3
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 埋葬敌方
+  - 预言
 ---
 
 # 屠夫

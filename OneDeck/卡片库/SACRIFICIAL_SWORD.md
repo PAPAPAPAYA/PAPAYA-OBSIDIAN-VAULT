@@ -5,8 +5,8 @@ rarity: Common
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 埋葬友方
+  - 强化
 ---
 
 # 献祭剑

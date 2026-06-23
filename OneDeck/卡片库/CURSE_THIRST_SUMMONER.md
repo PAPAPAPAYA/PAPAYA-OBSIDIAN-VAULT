@@ -5,8 +5,9 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 强化
+  - 消化
+  - 预言
 ---
 
 # 咒食的召唤师

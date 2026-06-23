@@ -9,8 +9,9 @@ extraDmg: 4
 powerCount: 0
 totalDmg: 6
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 伤害
+  - 预言
 ---
 
 # 守墓人

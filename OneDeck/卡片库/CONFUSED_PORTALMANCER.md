@@ -5,8 +5,9 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 任意门
+  - 埋葬友方
 ---
 
 # 错乱传送术士

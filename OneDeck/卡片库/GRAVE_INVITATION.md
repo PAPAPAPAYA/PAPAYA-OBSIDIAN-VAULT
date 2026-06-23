@@ -9,8 +9,8 @@ extraDmg: 2
 powerCount: 0
 totalDmg: 4
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 埋葬敌方
 ---
 
 # 冥界邀请

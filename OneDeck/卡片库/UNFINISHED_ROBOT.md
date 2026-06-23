@@ -9,8 +9,8 @@ extraDmg: -2
 powerCount: 1
 totalDmg: 1
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 强化
 ---
 
 # 未完成的机器人

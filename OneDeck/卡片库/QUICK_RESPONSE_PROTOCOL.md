@@ -5,8 +5,8 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 萦绕
+  - 预言
 ---
 
 # 快速响应协议

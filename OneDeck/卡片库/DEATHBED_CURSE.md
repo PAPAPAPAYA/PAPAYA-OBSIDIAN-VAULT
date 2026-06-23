@@ -5,8 +5,8 @@ rarity: Rare
 myStatusEffects: 无
 category: Conjure
 tags:
-  - OneDeck
-  - Card
+  - 污染
+  - 萦绕
 ---
 
 # 临终诅咒

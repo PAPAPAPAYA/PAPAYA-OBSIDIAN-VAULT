@@ -5,8 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 埋葬敌方
 ---
 
 # 对生物兵器

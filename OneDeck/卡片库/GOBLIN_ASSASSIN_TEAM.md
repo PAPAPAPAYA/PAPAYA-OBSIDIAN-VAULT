@@ -9,8 +9,8 @@ extraDmg: 2
 powerCount: 0
 totalDmg: 4
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 埋葬敌方
 ---
 
 # 哥布林暗杀部队

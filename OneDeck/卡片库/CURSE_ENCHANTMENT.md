@@ -5,8 +5,8 @@ rarity: Rare
 myStatusEffects: 无
 category: Curse
 tags:
-  - OneDeck
-  - Card
+  - 污染
+  - 萦绕
 ---
 
 # 诅咒附魔

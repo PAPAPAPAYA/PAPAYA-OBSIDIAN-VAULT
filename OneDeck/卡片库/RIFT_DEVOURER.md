@@ -9,8 +9,8 @@ extraDmg: 0
 powerCount: 0
 totalDmg: 2
 tags:
-  - OneDeck
-  - Card
+  - 伤害
+  - 强化
 ---
 
 # 次元吞噬者

@@ -5,8 +5,9 @@ rarity: Common
 myStatusEffects: 无
 category: Curse
 tags:
-  - OneDeck
-  - Card
+  - 污染
+  - 消化
+  - 预言
 ---
 
 # 咒食的召唤师

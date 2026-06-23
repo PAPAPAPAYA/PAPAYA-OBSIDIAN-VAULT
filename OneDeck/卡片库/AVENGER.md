@@ -9,8 +9,8 @@ extraDmg: 1
 powerCount: 0
 totalDmg: 3
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 伤害
 ---
 
 # 复仇者

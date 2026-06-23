@@ -9,8 +9,12 @@ extraDmg: -1
 powerCount: 0
 totalDmg: 1
 tags:
-  - OneDeck
-  - Card
+  - 任意门
+  - 伤害
+  - 埋葬敌方
+  - 强化
+  - 污染
+  - 预言
 ---
 
 # 全能人

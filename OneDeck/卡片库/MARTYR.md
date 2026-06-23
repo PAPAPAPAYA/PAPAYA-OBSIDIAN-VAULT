@@ -5,8 +5,8 @@ rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 强化
 ---
 
 # 殉道者

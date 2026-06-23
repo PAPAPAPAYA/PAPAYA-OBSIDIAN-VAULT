@@ -5,8 +5,8 @@ rarity: Common
 myStatusEffects: 无
 category: Curse
 tags:
-  - OneDeck
-  - Card
+  - 任意门
+  - 污染
 ---
 
 # 异次元的诅咒

@@ -5,8 +5,8 @@ rarity: Common
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
 tags:
-  - OneDeck
-  - Card
+  - 亡语
+  - 污染
 ---
 
 # 不死诅咒者

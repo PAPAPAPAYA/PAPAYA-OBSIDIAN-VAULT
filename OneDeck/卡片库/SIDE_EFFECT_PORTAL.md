@@ -5,8 +5,7 @@ rarity: Common
 myStatusEffects: 无
 category: General
 tags:
-  - OneDeck
-  - Card
+  - 污染
 ---
 
 # 有副作用的传送门

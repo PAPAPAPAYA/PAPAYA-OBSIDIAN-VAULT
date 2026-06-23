@@ -5,8 +5,7 @@ rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/Bury
 tags:
-  - OneDeck
-  - Card
+  - 埋葬友方
 ---
 
 # 不愚蠢的埋葬
