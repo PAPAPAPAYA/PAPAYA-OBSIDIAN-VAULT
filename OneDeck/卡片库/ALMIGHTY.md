@@ -8,11 +8,20 @@ baseDmg: 2
 extraDmg: -1
 powerCount: 0
 totalDmg: 1
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 置顶{N}友方
+  - 埋葬{N}敌方
+  - 给予友方{N}力量
+  - 生成{N}[次元裂缝]
+  - 增强敌方[诅咒]{N}
+benefitTags:
   - 任意门
   - 伤害
-  - 埋葬敌方
   - 强化
+  - 敌方埋葬
   - 污染
   - 预言
 ---

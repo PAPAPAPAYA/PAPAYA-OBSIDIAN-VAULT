@@ -4,7 +4,12 @@ displayName: 乌合之众
 rarity: Rare
 myStatusEffects: 无
 category: Curse
-tags:
+conditionTags:
+  - 消化
+methods:
+  - 揭晓时
+  - 将所有友方的力量(排除友方[诅咒])转移到敌方的[诅咒]
+benefitTags:
   - 污染
 ---
 

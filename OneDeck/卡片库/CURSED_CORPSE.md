@@ -8,8 +8,14 @@ baseDmg: 2
 extraDmg: -1
 powerCount: 0
 totalDmg: 1
-tags:
+conditionTags:
   - 亡语
+methods:
+  - 揭晓时
+  - 增强敌方[诅咒]{N}
+  - 被埋葬
+  - 造成{N}伤害x{M}
+benefitTags:
   - 伤害
   - 污染
 ---

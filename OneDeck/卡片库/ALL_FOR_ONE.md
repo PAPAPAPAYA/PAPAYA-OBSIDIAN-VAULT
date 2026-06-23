@@ -4,7 +4,11 @@ displayName: 人人为我
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-tags:
+conditionTags:
+methods:
+  - 揭晓时
+  - 造成所有卡的力量数量的伤害
+benefitTags:
   - 伤害
 ---
 

@@ -4,7 +4,11 @@ displayName: 增殖的厄运
 rarity: Rare
 myStatusEffects: 无
 category: Curse
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 生成[诅咒]{N}
+benefitTags:
   - 污染
 ---
 

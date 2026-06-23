@@ -8,9 +8,14 @@ baseDmg: 2
 extraDmg: 2
 powerCount: 0
 totalDmg: 4
-tags:
-  - 伤害
+conditionTags:
   - 吞噬
+methods:
+  - 揭晓时
+  - 去除{N}[次元裂缝]
+  - 造成{N}伤害
+benefitTags:
+  - 伤害
 ---
 
 # 次元兽

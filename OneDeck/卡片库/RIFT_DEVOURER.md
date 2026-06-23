@@ -8,7 +8,13 @@ baseDmg: 2
 extraDmg: 0
 powerCount: 0
 totalDmg: 2
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 当友方被去除时
+  - 给予友方{N}力量
+benefitTags:
   - 伤害
   - 强化
 ---

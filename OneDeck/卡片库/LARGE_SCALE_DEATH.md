@@ -4,7 +4,11 @@ displayName: 大范围死亡
 rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/Bury
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 埋葬后{N}卡
+benefitTags:
   - 随机埋葬
 ---
 

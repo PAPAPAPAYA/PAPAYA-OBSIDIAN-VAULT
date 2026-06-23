@@ -4,7 +4,12 @@ displayName: 异次元的诅咒
 rarity: Common
 myStatusEffects: 无
 category: Curse
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 增强敌方[诅咒]{N}
+  - 生成{N}[次元裂缝]
+benefitTags:
   - 任意门
   - 污染
 ---

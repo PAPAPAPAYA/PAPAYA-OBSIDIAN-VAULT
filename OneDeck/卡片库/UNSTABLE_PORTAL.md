@@ -4,8 +4,13 @@ displayName: 不稳定传送门
 rarity: Uncommon
 myStatusEffects: 无
 category: Bury and buried/Bury
-tags:
-  - 埋葬友方
+conditionTags: []
+methods:
+  - 揭晓时
+  - 置顶{N}友方
+  - 埋葬{N}友方
+benefitTags:
+  - 友方埋葬
   - 预言
 ---
 

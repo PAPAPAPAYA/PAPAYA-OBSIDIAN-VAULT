@@ -8,9 +8,13 @@ baseDmg: 2
 extraDmg: 0
 powerCount: 0
 totalDmg: 2
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 转移所有友方的{N}力量到自身
+  - 造成{N}伤害x{M}
+benefitTags:
   - 伤害
-  - 强化
   - 消化
 ---
 

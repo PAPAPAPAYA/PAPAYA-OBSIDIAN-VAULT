@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "OneDeck/卡片库"
+    groupBy:
+      property: rarity
+      direction: ASC
+    order:
+      - displayName
+      - file.name
+      - methods

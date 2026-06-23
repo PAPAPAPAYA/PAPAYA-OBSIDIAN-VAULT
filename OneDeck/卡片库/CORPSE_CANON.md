@@ -8,10 +8,16 @@ baseDmg: 2
 extraDmg: 0
 powerCount: 0
 totalDmg: 2
-tags:
-  - 亡语
+conditionTags:
+  - 友方埋葬
+methods:
+  - 揭晓时
+  - 埋葬{N}友方
+  - 友方被埋葬
+  - 造成{N}伤害
+benefitTags:
   - 伤害
-  - 埋葬友方
+  - 友方埋葬
 ---
 
 # 冥界大炮

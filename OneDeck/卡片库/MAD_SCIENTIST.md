@@ -4,7 +4,11 @@ displayName: 疯狂科学家
 rarity: Common
 myStatusEffects: 无
 category: General
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 给予下{X}卡{N}力量
+benefitTags:
   - 强化
 ---
 

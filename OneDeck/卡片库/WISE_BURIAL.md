@@ -4,8 +4,13 @@ displayName: 不愚蠢的埋葬
 rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/Bury
-tags:
-  - 埋葬友方
+conditionTags:
+  - 预言
+methods:
+  - 被置顶
+  - 埋葬{N}友方[亡语]/[萦绕]
+benefitTags:
+  - 友方埋葬
 ---
 
 # 不愚蠢的埋葬

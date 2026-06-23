@@ -4,9 +4,13 @@ displayName: 诅咒附魔
 rarity: Rare
 myStatusEffects: 无
 category: Curse
-tags:
-  - 污染
+conditionTags:
   - 萦绕
+methods:
+  - 当敌人受到伤害时
+  - 增强敌方[诅咒]{N}
+benefitTags:
+  - 污染
 ---
 
 # 诅咒附魔

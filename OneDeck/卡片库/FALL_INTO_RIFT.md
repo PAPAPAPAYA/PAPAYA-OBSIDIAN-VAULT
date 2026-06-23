@@ -4,9 +4,14 @@ displayName: 坠入裂缝
 rarity: Common
 myStatusEffects: 无
 category: Conjure
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 生成{N}[次元裂缝]
+  - 埋葬{N}敌方
+benefitTags:
   - 任意门
-  - 埋葬敌方
+  - 敌方埋葬
 ---
 
 # 坠入裂缝

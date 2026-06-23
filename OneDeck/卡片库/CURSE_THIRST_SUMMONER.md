@@ -4,9 +4,16 @@ displayName: 咒食的召唤师
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-tags:
-  - 强化
+conditionTags:
+  - 污染
   - 消化
+methods:
+  - 揭晓时
+  - 消耗敌方[诅咒]{N}力量
+  - 置顶{N}友方
+  - 给予下{X}卡{N}力量
+benefitTags:
+  - 强化
   - 预言
 ---
 

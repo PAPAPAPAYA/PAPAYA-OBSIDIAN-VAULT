@@ -8,7 +8,13 @@ baseDmg: 2
 extraDmg: 0
 powerCount: 0
 totalDmg: 2
-tags:
+conditionTags:
+  - 预言
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 被置顶
+benefitTags:
   - 伤害
 ---
 

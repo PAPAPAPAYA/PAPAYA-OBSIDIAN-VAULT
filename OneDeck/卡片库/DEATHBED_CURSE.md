@@ -4,9 +4,13 @@ displayName: 临终诅咒
 rarity: Rare
 myStatusEffects: 无
 category: Conjure
-tags:
-  - 污染
+conditionTags:
   - 萦绕
+methods:
+  - 当友方被去除时
+  - 给予敌方{N}力量
+benefitTags:
+  - 污染
 ---
 
 # 临终诅咒

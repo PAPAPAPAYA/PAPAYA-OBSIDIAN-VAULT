@@ -8,7 +8,14 @@ baseDmg: 2
 extraDmg: 2
 powerCount: 0
 totalDmg: 4
-tags:
+conditionTags:
+  - 预言
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 被置顶
+  - 给予友方{N}力量
+benefitTags:
   - 伤害
   - 强化
 ---

@@ -8,7 +8,12 @@ baseDmg: 2
 extraDmg: -2
 powerCount: 1
 totalDmg: 1
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 力量倍化{N}
+benefitTags:
   - 伤害
   - 强化
 ---

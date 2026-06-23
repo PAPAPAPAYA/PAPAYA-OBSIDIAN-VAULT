@@ -4,8 +4,14 @@ displayName: 有副作用的传送门
 rarity: Common
 myStatusEffects: 无
 category: General
-tags:
+conditionTags:
   - 污染
+methods:
+  - 揭晓时
+  - 增强自身[诅咒]{N}
+  - 置顶{N}友方
+benefitTags:
+  - 预言
 ---
 
 # 有副作用的传送门

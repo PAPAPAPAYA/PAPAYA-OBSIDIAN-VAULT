@@ -4,10 +4,16 @@ displayName: 错乱传送术士
 rarity: Uncommon
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
-tags:
+conditionTags:
   - 亡语
+methods:
+  - 揭晓时
+  - 埋葬{N}友方
+  - 被埋葬
+  - 生成{N}[次元裂缝]
+benefitTags:
   - 任意门
-  - 埋葬友方
+  - 友方埋葬
 ---
 
 # 错乱传送术士

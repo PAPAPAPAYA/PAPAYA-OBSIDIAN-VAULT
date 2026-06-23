@@ -4,7 +4,11 @@ displayName: 血肉聚集体
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成友方数量的伤害
+benefitTags:
   - 伤害
 ---
 

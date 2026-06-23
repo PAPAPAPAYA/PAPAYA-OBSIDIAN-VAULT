@@ -8,7 +8,12 @@ baseDmg: 2
 extraDmg: 1
 powerCount: 0
 totalDmg: 3
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 增强敌方[诅咒]{N}
+  - 造成{N}伤害
+benefitTags:
   - 伤害
   - 污染
 ---

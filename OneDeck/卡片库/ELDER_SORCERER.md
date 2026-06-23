@@ -4,7 +4,12 @@ displayName: 远古魔法使用者
 rarity: Rare
 myStatusEffects: 无
 category: General
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 给予友方{N}力量
+  - 本回合每置顶过{N}友方
+benefitTags:
   - 强化
 ---
 

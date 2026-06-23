@@ -8,7 +8,12 @@ baseDmg: 2
 extraDmg: 0
 powerCount: 0
 totalDmg: 2
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 生成{N}[次元裂缝]
+benefitTags:
   - 任意门
   - 伤害
 ---

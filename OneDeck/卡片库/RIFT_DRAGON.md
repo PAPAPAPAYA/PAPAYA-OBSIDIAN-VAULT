@@ -4,7 +4,14 @@ displayName: 次元龙
 rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
-tags:
+conditionTags:
+  - 预言
+methods:
+  - 揭晓时
+  - 生成{N}[次元裂缝]
+  - 造成{N}伤害
+  - 被置顶
+benefitTags:
   - 任意门
   - 伤害
 ---

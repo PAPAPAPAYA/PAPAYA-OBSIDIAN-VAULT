@@ -8,8 +8,14 @@ baseDmg: 2
 extraDmg: 1
 powerCount: 0
 totalDmg: 3
-tags:
+conditionTags:
   - 亡语
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 被埋葬
+  - 添加自身到卡组中
+benefitTags:
   - 伤害
 ---
 

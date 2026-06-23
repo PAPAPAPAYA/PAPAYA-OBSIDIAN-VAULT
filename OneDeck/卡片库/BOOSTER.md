@@ -4,8 +4,14 @@ displayName: 推进器
 rarity: Rare
 myStatusEffects: 无
 category: General
-tags:
-  - 埋葬友方
+conditionTags: []
+methods:
+  - 洗牌后
+  - 置顶{N}友方
+  - 揭晓时
+  - 埋葬{N}友方
+benefitTags:
+  - 友方埋葬
   - 预言
 ---
 

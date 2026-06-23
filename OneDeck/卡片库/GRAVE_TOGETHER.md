@@ -4,9 +4,14 @@ displayName: 同路人
 rarity: Common
 myStatusEffects: 无
 category: Bury and buried/Bury
-tags:
-  - 埋葬友方
-  - 埋葬敌方
+conditionTags: []
+methods:
+  - 揭晓时
+  - 埋葬{N}友方
+  - 埋葬{N}敌方
+benefitTags:
+  - 友方埋葬
+  - 敌方埋葬
 ---
 
 # 同路人

@@ -4,7 +4,11 @@ displayName: 飞蛾人
 rarity: Uncommon
 myStatusEffects: 无
 category: Curse
-tags:
+conditionTags: []
+methods:
+  - 当敌方[诅咒]获得力量时
+  - 置顶{N}友方
+benefitTags:
   - 预言
 ---
 

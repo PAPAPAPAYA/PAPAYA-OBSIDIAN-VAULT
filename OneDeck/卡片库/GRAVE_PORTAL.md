@@ -4,9 +4,15 @@ displayName: 冥界裂缝
 rarity: Common
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
-tags:
+conditionTags:
   - 亡语
-  - 埋葬敌方
+methods:
+  - 揭晓时
+  - 埋葬{N}敌方
+  - 被埋葬
+  - 置顶{N}友方
+benefitTags:
+  - 敌方埋葬
   - 预言
 ---
 

@@ -8,9 +8,14 @@ baseDmg: 2
 extraDmg: 1
 powerCount: 0
 totalDmg: 3
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 埋葬{N}敌方
+benefitTags:
   - 伤害
-  - 埋葬敌方
+  - 敌方埋葬
 ---
 
 # 棺材制造者

@@ -4,9 +4,14 @@ displayName: 献祭仪式
 rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 埋葬{N}友方
+  - 生成{N}[次元裂缝]
+benefitTags:
   - 任意门
-  - 埋葬友方
+  - 友方埋葬
 ---
 
 # 献祭仪式

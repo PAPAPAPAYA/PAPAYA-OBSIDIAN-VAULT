@@ -8,9 +8,13 @@ baseDmg: 2
 extraDmg: -1
 powerCount: 0
 totalDmg: 1
-tags:
-  - 伤害
+conditionTags:
   - 萦绕
+methods:
+  - 当敌人受到伤害时
+  - 造成{N}伤害
+benefitTags:
+  - 伤害
 ---
 
 # 不散的恶灵

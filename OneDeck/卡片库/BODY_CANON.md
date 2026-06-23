@@ -8,9 +8,13 @@ baseDmg: 2
 extraDmg: -1
 powerCount: 0
 totalDmg: 1
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成{N}伤害x{M}
+  - 墓地每有{N}友方
+benefitTags:
   - 伤害
-  - 埋葬友方
 ---
 
 # 人间大炮
@@ -27,4 +31,4 @@ tags:
 
 ## 效果描述
 
-揭晓时:埋葬所有友方,墓地每有一个友方:造成 **1** 次 **1** 伤害
+揭晓时,埋葬所有友方,墓地每有一个友方:造成 **1** 次 **1** 伤害

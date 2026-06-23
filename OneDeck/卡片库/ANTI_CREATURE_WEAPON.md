@@ -4,8 +4,12 @@ displayName: 对生物兵器
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-tags:
-  - 埋葬敌方
+conditionTags: []
+methods:
+  - 揭晓时
+  - 埋葬{N}敌方
+benefitTags:
+  - 敌方埋葬
 ---
 
 # 对生物兵器

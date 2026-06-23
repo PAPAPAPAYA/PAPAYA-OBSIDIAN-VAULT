@@ -4,9 +4,11 @@ displayName: 高等传送门
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-
-  - 预言
-tags:
+conditionTags: []
+methods:
+  - 每揭晓{N}<counter>次
+  - 置顶{N}友方
+benefitTags:
   - 预言
 ---
 

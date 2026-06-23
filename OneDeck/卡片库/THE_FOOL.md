@@ -4,7 +4,13 @@ displayName: 愚者
 rarity: Common
 myStatusEffects: 无
 category: General
-tags:
+conditionTags:
+  - 预言
+methods:
+  - 揭晓时
+  - 置顶力量最多的敌方
+  - 造成{N}伤害
+benefitTags:
   - 伤害
 ---
 

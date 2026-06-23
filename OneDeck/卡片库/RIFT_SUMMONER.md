@@ -4,8 +4,14 @@ displayName: 裂缝召唤师
 rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
-tags:
+conditionTags:
   - 吞噬
+methods:
+  - 揭晓时
+  - 去除{N}[次元裂缝]
+  - 置顶{N}友方
+benefitTags:
+  - 预言
 ---
 
 # 裂缝召唤师

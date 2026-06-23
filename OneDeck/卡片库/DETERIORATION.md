@@ -4,7 +4,12 @@ displayName: 恶化
 rarity: Rare
 myStatusEffects: 无
 category: Curse
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 敌方[诅咒]每有{N}力量
+  - 增强敌方[诅咒]{N}
+benefitTags:
   - 污染
 ---
 

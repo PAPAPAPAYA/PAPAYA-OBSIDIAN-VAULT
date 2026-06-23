@@ -8,9 +8,19 @@ baseDmg: 2
 extraDmg: 1
 powerCount: 0
 totalDmg: 3
-tags:
+conditionTags:
+  - 亡语
+  - 预言
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 被置顶
+  - 置顶{N}友方
+  - 被埋葬
+  - 埋葬{N}敌方
+benefitTags:
   - 伤害
-  - 埋葬敌方
+  - 敌方埋葬
   - 预言
 ---
 

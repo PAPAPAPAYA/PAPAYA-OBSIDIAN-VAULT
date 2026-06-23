@@ -4,8 +4,14 @@ displayName: 力量转移
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 减少{N}个敌方{N}力量
+  - 给予友方{N}力量
+benefitTags:
   - 强化
+  - 消化
 ---
 
 # 力量转移

@@ -4,9 +4,14 @@ displayName: 小范围死亡
 rarity: Uncommon
 myStatusEffects: 无
 category: Curse
-tags:
-  - 伤害
+conditionTags: []
+methods:
+  - 揭晓时
+  - 埋葬后{N}卡
+  - 增强敌方[诅咒]{N}
+benefitTags:
   - 污染
+  - 随机埋葬
 ---
 
 # 小范围死亡

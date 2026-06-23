@@ -4,7 +4,12 @@ displayName: 被诅咒的骷髅
 rarity: Uncommon
 myStatusEffects: 无
 category: Curse
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 墓地每有{N}友方
+  - 增强敌方[诅咒]{N}
+benefitTags:
   - 污染
 ---
 

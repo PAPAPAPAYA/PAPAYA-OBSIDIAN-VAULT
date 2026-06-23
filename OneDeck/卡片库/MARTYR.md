@@ -4,8 +4,12 @@ displayName: 殉道者
 rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
-tags:
+conditionTags:
   - 亡语
+methods:
+  - 被埋葬
+  - 给予友方{N}力量
+benefitTags:
   - 强化
 ---
 

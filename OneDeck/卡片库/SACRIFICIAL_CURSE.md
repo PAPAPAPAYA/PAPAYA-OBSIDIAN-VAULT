@@ -4,8 +4,13 @@ displayName: 献祭诅咒
 rarity: Common
 myStatusEffects: 无
 category: Curse
-tags:
-  - 埋葬友方
+conditionTags:
+  - 友方埋葬
+methods:
+  - 揭晓时
+  - 埋葬{N}友方
+  - 增强敌方[诅咒]{N}
+benefitTags:
   - 污染
 ---
 

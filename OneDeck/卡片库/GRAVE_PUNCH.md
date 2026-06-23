@@ -8,9 +8,14 @@ baseDmg: 2
 extraDmg: 0
 powerCount: 0
 totalDmg: 2
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 埋葬{N}友方
+  - 造成{N}伤害x{M}
+benefitTags:
   - 伤害
-  - 埋葬友方
+  - 友方埋葬
 ---
 
 # 尸爆

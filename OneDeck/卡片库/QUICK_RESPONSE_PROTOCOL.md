@@ -4,8 +4,12 @@ displayName: 快速响应协议
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-tags:
+conditionTags:
   - 萦绕
+methods:
+  - 再有{N}<counter>敌人被揭晓
+  - 置顶{N}友方
+benefitTags:
   - 预言
 ---
 

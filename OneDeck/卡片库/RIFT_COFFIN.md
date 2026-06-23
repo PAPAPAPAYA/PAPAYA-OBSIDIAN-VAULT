@@ -4,9 +4,13 @@ displayName: 次元棺材
 rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
-tags:
-  - 埋葬敌方
+conditionTags:
   - 萦绕
+methods:
+  - 当友方被去除时
+  - 埋葬{N}敌方
+benefitTags:
+  - 敌方埋葬
 ---
 
 # 次元棺材

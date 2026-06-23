@@ -8,7 +8,11 @@ baseDmg: 2
 extraDmg: -1
 powerCount: 0
 totalDmg: 1
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 造成{N}伤害x本回合被埋葬的敌方数量
+benefitTags:
   - 伤害
 ---
 

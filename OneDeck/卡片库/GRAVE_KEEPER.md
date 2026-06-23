@@ -8,8 +8,14 @@ baseDmg: 2
 extraDmg: 4
 powerCount: 0
 totalDmg: 6
-tags:
-  - 亡语
+conditionTags:
+  - 友方埋葬
+methods:
+  - 揭晓时
+  - 造成{N}伤害
+  - 当卡被埋葬时
+  - 置顶自身
+benefitTags:
   - 伤害
   - 预言
 ---

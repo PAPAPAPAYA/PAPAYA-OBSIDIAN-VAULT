@@ -4,9 +4,15 @@ displayName: 曼哈顿博士
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-tags:
-  - 埋葬敌方
+conditionTags:
   - 消化
+methods:
+  - 揭晓时
+  - 消耗{N}力量
+  - 置顶{N}友方
+  - 埋葬{N}敌方
+benefitTags:
+  - 敌方埋葬
   - 预言
 ---
 

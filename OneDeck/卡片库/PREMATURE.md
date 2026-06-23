@@ -4,7 +4,11 @@ displayName: 拔苗助长
 rarity: Uncommon
 myStatusEffects: 无
 category: Curse
-tags:
+conditionTags: []
+methods:
+  - 揭晓时
+  - 置顶敌方[诅咒]
+benefitTags:
   - 污染
 ---
 

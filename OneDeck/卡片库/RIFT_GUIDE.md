@@ -4,9 +4,14 @@ displayName: 次元引导者
 rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
-tags:
+conditionTags:
   - 吞噬
-  - 埋葬敌方
+methods:
+  - 揭晓时
+  - 去除{N}[次元裂缝]
+  - 埋葬{N}敌方
+benefitTags:
+  - 敌方埋葬
 ---
 
 # 次元引导者

@@ -4,8 +4,13 @@ displayName: 不死诅咒者
 rarity: Common
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
-tags:
+conditionTags:
   - 亡语
+methods:
+  - 揭晓时
+  - 增强敌方[诅咒]{N}
+  - 被埋葬
+benefitTags:
   - 污染
 ---
 
