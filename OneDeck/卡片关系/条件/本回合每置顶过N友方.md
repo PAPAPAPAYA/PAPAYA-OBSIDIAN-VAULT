@@ -1,0 +1,37 @@
+# 本回合每置顶过N友方
+
+
+
+## 需要该条件的卡片
+
+
+
+```dataview
+
+TABLE displayName AS 卡片, rarity AS 稀有度
+
+FROM "卡片库"
+
+WHERE any(map(conditions, (c) => contains(c, "[[" + this.file.path + "|" + this.file.name + "]]")))
+
+```
+
+
+
+## 能满足该条件的收益
+
+
+
+- [[卡片关系/收益/生成N[次元裂缝]|生成N[次元裂缝]]]
+
+- [[卡片关系/收益/置顶N友方|置顶N友方]]
+
+- [[卡片关系/收益/置顶自身|置顶自身]]
+
+
+
+
+
+
+
+

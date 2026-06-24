@@ -4,13 +4,16 @@ displayName: 对生物兵器
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-conditionTags: []
-methods:
-  - 揭晓时
-  - 埋葬{N}敌方
-benefitTags:
-  - 敌方埋葬
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-埋葬N敌方-埋葬N敌方]]|[[卡片关系/收益/埋葬N敌方|埋葬N敌方]]]]"
 ---
+
+
+
+
+
 
 # 对生物兵器
 

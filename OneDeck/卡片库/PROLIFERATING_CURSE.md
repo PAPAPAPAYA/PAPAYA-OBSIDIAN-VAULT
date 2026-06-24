@@ -4,13 +4,16 @@ displayName: 增殖的厄运
 rarity: Rare
 myStatusEffects: 无
 category: Curse
-conditionTags: []
-methods:
-  - 揭晓时
-  - 生成[诅咒]{N}
-benefitTags:
-  - 污染
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-生成[诅咒]N-生成[诅咒]N]]|[[卡片关系/收益/生成[诅咒]N|生成[诅咒]N]]]]"
 ---
+
+
+
+
+
 
 # 增殖的厄运
 

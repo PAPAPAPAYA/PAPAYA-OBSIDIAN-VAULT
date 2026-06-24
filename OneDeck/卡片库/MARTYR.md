@@ -4,14 +4,16 @@ displayName: 殉道者
 rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
-conditionTags:
-  - 亡语
-methods:
-  - 被埋葬
-  - 给予友方{N}力量
-benefitTags:
-  - 强化
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-被埋葬-被埋葬]]|[[卡片关系/条件/被埋葬|被埋葬]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-给予友方N力量-给予友方N力量]]|[[卡片关系/收益/给予友方N力量|给予友方N力量]]]]"
 ---
+
+
+
+
+
 
 # 殉道者
 

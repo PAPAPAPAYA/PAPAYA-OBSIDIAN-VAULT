@@ -4,13 +4,16 @@ displayName: 盲眼战斗牧师
 rarity: Common
 myStatusEffects: 无
 category: General
-conditionTags: []
-methods:
-  - 揭晓时
-  - 给予下{X}卡{N}力量
-benefitTags:
-  - 强化
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-给予下X卡N力量-给予下X卡N力量]]|[[卡片关系/收益/给予下X卡N力量|给予下X卡N力量]]]]"
 ---
+
+
+
+
+
 
 # 盲眼战斗牧师
 

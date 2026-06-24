@@ -4,15 +4,17 @@ displayName: 不稳定传送门
 rarity: Uncommon
 myStatusEffects: 无
 category: Bury and buried/Bury
-conditionTags: []
-methods:
-  - 揭晓时
-  - 置顶{N}友方
-  - 埋葬{N}友方
-benefitTags:
-  - 友方埋葬
-  - 预言
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-埋葬N友方-埋葬N友方]]|[[卡片关系/收益/埋葬N友方|埋葬N友方]]]]"
+  - "[[卡片关系/收益/[[卡片关系-收益-置顶N友方-置顶N友方]]|[[卡片关系/收益/置顶N友方|置顶N友方]]]]"
 ---
+
+
+
+
+
 
 # 不稳定传送门
 

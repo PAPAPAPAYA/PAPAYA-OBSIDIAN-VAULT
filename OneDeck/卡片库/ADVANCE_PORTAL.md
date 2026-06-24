@@ -4,13 +4,16 @@ displayName: 高等传送门
 rarity: Uncommon
 myStatusEffects: 无
 category: General
-conditionTags: []
-methods:
-  - 每揭晓{N}<counter>次
-  - 置顶{N}友方
-benefitTags:
-  - 预言
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-每揭晓N次-每揭晓N次]]|[[卡片关系/条件/每揭晓N次|每揭晓N次]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-置顶N友方-置顶N友方]]|[[卡片关系/收益/置顶N友方|置顶N友方]]]]"
 ---
+
+
+
+
+
 
 # 高等传送门
 

@@ -1,0 +1,30 @@
+---
+cardTypeID: PREMATURE
+displayName: 拔苗助长
+rarity: Uncommon
+myStatusEffects: 无
+category: Curse
+methods:
+
+  - 揭晓时
+  - 置顶敌方[诅咒]
+conditions:
+
+  - 揭晓时
+payoffs:
+
+  - 置顶敌方[诅咒]
+---
+
+
+# 拔苗助长
+
+- **Prefab**: `PREMATURE`
+- **Card Type ID**: `PREMATURE`
+- **稀有度**: Uncommon
+- **类别**: Curse
+- **自带状态效果**: 无
+
+## 效果描述
+
+揭晓时,敌方[诅咒]力量 - **1** :置顶敌方[诅咒]

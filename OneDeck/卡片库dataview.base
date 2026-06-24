@@ -10,4 +10,5 @@ views:
     order:
       - displayName
       - file.name
-      - methods
+      - conditions
+      - payoffs

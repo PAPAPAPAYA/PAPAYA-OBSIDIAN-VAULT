@@ -4,13 +4,16 @@ displayName: 大范围死亡
 rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/Bury
-conditionTags: []
-methods:
-  - 揭晓时
-  - 埋葬后{N}卡
-benefitTags:
-  - 随机埋葬
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-埋葬后N卡-埋葬后N卡]]|[[卡片关系/条件/埋葬后N卡|埋葬后N卡]]]]"
+  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+payoffs:
 ---
+
+
+
+
+
 
 # 大范围死亡
 

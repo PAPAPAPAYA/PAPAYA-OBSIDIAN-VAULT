@@ -4,13 +4,16 @@ displayName: 飞蛾人
 rarity: Uncommon
 myStatusEffects: 无
 category: Curse
-conditionTags: []
-methods:
-  - 当敌方[诅咒]获得力量时
-  - 置顶{N}友方
-benefitTags:
-  - 预言
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-当敌方[诅咒]获得力量时-当敌方[诅咒]获得力量时]]|[[卡片关系/条件/当敌方[诅咒]获得力量时|当敌方[诅咒]获得力量时]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-置顶N友方-置顶N友方]]|[[卡片关系/收益/置顶N友方|置顶N友方]]]]"
 ---
+
+
+
+
+
 
 # 飞蛾人
 

@@ -1,0 +1,35 @@
+# 墓地每有N友方
+
+
+
+## 需要该条件的卡片
+
+
+
+```dataview
+
+TABLE displayName AS 卡片, rarity AS 稀有度
+
+FROM "卡片库"
+
+WHERE any(map(conditions, (c) => contains(c, "[[" + this.file.path + "|" + this.file.name + "]]")))
+
+```
+
+
+
+## 能满足该条件的收益
+
+
+
+- [[卡片关系/收益/埋葬N友方|埋葬N友方]]
+
+- [[卡片关系/收益/埋葬N友方[亡语]-[萦绕]|埋葬N友方[亡语]/[萦绕]]]
+
+
+
+
+
+
+
+

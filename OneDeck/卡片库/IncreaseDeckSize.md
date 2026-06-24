@@ -4,9 +4,12 @@ displayName: 卡位增加 <中>
 rarity: Uncommon
 myStatusEffects: 无
 category: _UTILITY
-conditionTags: []
-benefitTags: []
+conditions:
+payoffs:
 ---
+
+
+
 
 # 卡位增加 <中>
 

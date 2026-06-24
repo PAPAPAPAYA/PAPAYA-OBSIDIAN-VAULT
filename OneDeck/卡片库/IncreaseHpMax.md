@@ -4,9 +4,13 @@ displayName: 早睡早起
 rarity: Uncommon
 myStatusEffects: 无
 category: _UTILITY
-conditionTags: []
-benefitTags: []
+conditions:
+payoffs:
 ---
+
+
+
+
 
 # 早睡早起
 

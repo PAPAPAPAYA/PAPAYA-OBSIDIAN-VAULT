@@ -4,13 +4,16 @@ displayName: 拔苗助长
 rarity: Uncommon
 myStatusEffects: 无
 category: Curse
-conditionTags: []
-methods:
-  - 揭晓时
-  - 置顶敌方[诅咒]
-benefitTags:
-  - 污染
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-置顶敌方[诅咒]-置顶敌方[诅咒]]]|[[卡片关系/收益/置顶敌方[诅咒]|置顶敌方[诅咒]]]]]"
 ---
+
+
+
+
+
 
 # 拔苗助长
 

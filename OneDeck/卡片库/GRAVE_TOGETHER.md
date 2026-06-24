@@ -4,15 +4,21 @@ displayName: 同路人
 rarity: Common
 myStatusEffects: 无
 category: Bury and buried/Bury
-conditionTags: []
 methods:
+
   - 揭晓时
   - 埋葬{N}友方
   - 埋葬{N}敌方
-benefitTags:
-  - 友方埋葬
-  - 敌方埋葬
+conditions:
+  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+payoffs:
+  - "[[卡片关系/收益/[[卡片关系-收益-埋葬N友方-埋葬N友方]]|[[卡片关系/收益/埋葬N友方|埋葬N友方]]]]"
+  - "[[卡片关系/收益/[[卡片关系-收益-埋葬N敌方-埋葬N敌方]]|[[卡片关系/收益/埋葬N敌方|埋葬N敌方]]]]"
 ---
+
+
+
+
 
 # 同路人
 
