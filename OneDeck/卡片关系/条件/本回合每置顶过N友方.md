@@ -10,9 +10,9 @@
 
 TABLE displayName AS 卡片, rarity AS 稀有度
 
-FROM "卡片库"
+FROM "OneDeck/卡片库"
 
-WHERE any(map(conditions, (c) => contains(c, "[[" + this.file.path + "|" + this.file.name + "]]")))
+WHERE any(map(conditions, (c) => contains(string(c), this.file.name)))
 
 ```
 
@@ -34,4 +34,5 @@ WHERE any(map(conditions, (c) => contains(c, "[[" + this.file.path + "|" + this.
 
 
 
-
+
+
