@@ -5,8 +5,8 @@ rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/Bury
 conditions:
-  - "[[卡片关系/条件/[[卡片关系-条件-埋葬后N卡-埋葬后N卡]]|[[卡片关系/条件/埋葬后N卡|埋葬后N卡]]]]"
-  - "[[卡片关系/条件/[[卡片关系-条件-揭晓时-揭晓时]]|[[卡片关系/条件/揭晓时|揭晓时]]]]"
+  - "[[埋葬后N卡]]"
+  - "[[揭晓时]]"
 payoffs:
 ---
 

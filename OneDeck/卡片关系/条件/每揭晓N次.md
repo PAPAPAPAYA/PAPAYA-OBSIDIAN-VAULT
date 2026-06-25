@@ -34,4 +34,5 @@ WHERE any(map(conditions, (c) => contains(c, "[[" + this.file.path + "|" + this.
 
 
 
-
+
+

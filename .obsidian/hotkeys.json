@@ -1,0 +1,12 @@
+{
+  "workspace:undo-close-pane": [],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}

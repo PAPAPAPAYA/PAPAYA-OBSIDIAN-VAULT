@@ -5,9 +5,9 @@ rarity: Rare
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
 conditions:
-  - "[[卡片关系/条件/[[卡片关系-条件-被埋葬-被埋葬]]|[[卡片关系/条件/被埋葬|被埋葬]]]]"
+  - "[[被埋葬]]"
 payoffs:
-  - "[[卡片关系/收益/[[卡片关系-收益-给予友方N力量-给予友方N力量]]|[[卡片关系/收益/给予友方N力量|给予友方N力量]]]]"
+  - "[[给予友方N力量]]"
 ---
 
 

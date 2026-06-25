@@ -5,9 +5,9 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 conditions:
-  - "[[卡片关系/条件/[[卡片关系-条件-每揭晓N次-每揭晓N次]]|[[卡片关系/条件/每揭晓N次|每揭晓N次]]]]"
+  - "[[每揭晓N次]]"
 payoffs:
-  - "[[卡片关系/收益/[[卡片关系-收益-置顶N友方-置顶N友方]]|[[卡片关系/收益/置顶N友方|置顶N友方]]]]"
+  - "[[置顶N友方]]"
 ---
 
 
