@@ -1,0 +1,38 @@
+---
+related to:
+  - "[[生成[诅咒]N]]"
+---
+# 再有N敌人被揭晓
+
+
+
+## 需要该条件的卡片
+
+
+
+```dataview
+
+TABLE displayName AS 卡片, rarity AS 稀有度
+
+FROM "OneDeck/卡片库"
+
+WHERE any(map(conditions, (c) => contains(string(c), this.file.name)))
+
+```
+
+
+
+## 能满足该条件的收益
+
+
+
+- [[生成[诅咒]N|生成[诅咒]N]]
+
+
+
+
+
+
+
+
+

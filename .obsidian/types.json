@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "boost": "multitext",
+    "requires": "multitext",
+    "boosts": "multitext",
+    "boosted by": "multitext",
+    "is parent to": "multitext",
+    "is child of": "multitext"
+  }
+}
