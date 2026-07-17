@@ -9,7 +9,7 @@ extraDmg: 0
 powerCount: 0
 totalDmg: 2
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[消耗所有友方N力量]]"
   - "[[重复M次]]"
 payoffs:

@@ -9,7 +9,7 @@ extraDmg: -1
 powerCount: 0
 totalDmg: 1
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[被埋葬]]"
   - "[[重复M次]]"
 payoffs:

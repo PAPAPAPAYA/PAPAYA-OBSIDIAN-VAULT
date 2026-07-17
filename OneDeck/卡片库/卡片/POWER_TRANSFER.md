@@ -5,7 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[减少N个敌方N力量]]"
   - "[[给予友方N力量]]"

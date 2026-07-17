@@ -5,7 +5,7 @@ rarity: Rare
 myStatusEffects: 无
 category: General
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[洗牌后]]"
 payoffs:
   - "[[埋葬N友方]]"

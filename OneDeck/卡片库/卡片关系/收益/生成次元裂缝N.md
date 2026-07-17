@@ -30,7 +30,7 @@ WHERE any(map(payoffs, (p) => contains(string(p), this.file.name)))
 
 - [[当友方被去除时|当友方被去除时]]
 
-- [[揭晓时|揭晓时]]
+- [[OneDeck/卡片库/卡片关系/条件/揭晓时|揭晓时]]
 
 - [[本回合每置顶过N友方|本回合每置顶过N友方]]
 

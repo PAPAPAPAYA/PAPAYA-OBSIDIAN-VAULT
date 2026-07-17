@@ -10,7 +10,7 @@ powerCount: 0
 totalDmg: 1
 conditions:
   - "[[墓地每有N友方]]"
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[重复M次]]"
 payoffs:
   - "[[造成N伤害]]"

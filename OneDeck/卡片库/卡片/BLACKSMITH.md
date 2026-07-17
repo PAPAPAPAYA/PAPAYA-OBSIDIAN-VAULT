@@ -9,7 +9,7 @@ extraDmg: 1
 powerCount: 0
 totalDmg: 3
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[给予友方N力量]]"
   - "[[造成N伤害]]"

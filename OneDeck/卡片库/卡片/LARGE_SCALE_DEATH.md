@@ -6,7 +6,7 @@ myStatusEffects: 无
 category: Bury and buried/Bury
 conditions:
   - "[[埋葬后N卡]]"
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
 relatedCards:
   - "[[OneDeck/卡片库/卡片/AVENGER]]"

@@ -3,12 +3,19 @@ views:
     name: 表格
     filters:
       and:
-        - file.folder == "OneDeck/卡片库"
+        - file.folder == "OneDeck/卡片库/卡片"
     groupBy:
       property: rarity
       direction: ASC
     order:
       - displayName
       - file.name
+      - category
       - conditions
       - payoffs
+    sort:
+      - property: category
+        direction: ASC
+    columnSize:
+      file.name: 173
+      note.conditions: 412

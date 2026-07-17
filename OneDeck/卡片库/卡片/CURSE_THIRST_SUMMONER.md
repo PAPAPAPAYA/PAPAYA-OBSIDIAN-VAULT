@@ -5,7 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: General
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[消耗敌方[诅咒]N力量]]"
 payoffs:
   - "[[给予下X卡N力量]]"

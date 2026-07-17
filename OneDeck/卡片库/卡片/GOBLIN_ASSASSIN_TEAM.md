@@ -9,7 +9,7 @@ extraDmg: 2
 powerCount: 0
 totalDmg: 4
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[被置顶]]"
 payoffs:
   - "[[埋葬N敌方]]"

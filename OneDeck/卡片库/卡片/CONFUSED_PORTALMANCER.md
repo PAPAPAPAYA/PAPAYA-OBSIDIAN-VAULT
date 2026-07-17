@@ -5,7 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Bury and buried/DeathRattle
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[被埋葬]]"
 payoffs:
   - "[[埋葬N友方]]"

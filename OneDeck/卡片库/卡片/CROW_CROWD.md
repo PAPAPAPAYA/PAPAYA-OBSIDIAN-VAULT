@@ -5,7 +5,7 @@ rarity: Rare
 myStatusEffects: 无
 category: Curse
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[将所有友方的力量(排除友方[诅咒])转移到敌方的[诅咒]]]"
 ---

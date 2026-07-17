@@ -5,7 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Curse
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[敌方[诅咒]每有N力量]]"
 payoffs:
   - "[[给予友方N力量]]"

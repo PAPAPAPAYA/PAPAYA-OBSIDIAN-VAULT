@@ -9,7 +9,7 @@ extraDmg: 0
 powerCount: 0
 totalDmg: 2
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[生成次元裂缝N]]"
   - "[[造成N伤害]]"

@@ -6,7 +6,7 @@ myStatusEffects: 无
 category: Curse
 conditions:
   - "[[埋葬后N卡]]"
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[增强敌方[诅咒]N]]"
 relatedCards:

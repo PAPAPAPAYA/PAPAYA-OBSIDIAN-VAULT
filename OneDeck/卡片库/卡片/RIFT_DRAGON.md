@@ -5,7 +5,7 @@ rarity: Uncommon
 myStatusEffects: 无
 category: Conjure
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[被置顶]]"
 payoffs:
   - "[[生成次元裂缝N]]"

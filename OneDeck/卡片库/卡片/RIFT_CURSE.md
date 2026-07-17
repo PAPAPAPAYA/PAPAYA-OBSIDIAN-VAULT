@@ -5,7 +5,7 @@ rarity: Common
 myStatusEffects: 无
 category: Curse
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[增强敌方[诅咒]N]]"
   - "[[生成次元裂缝N]]"

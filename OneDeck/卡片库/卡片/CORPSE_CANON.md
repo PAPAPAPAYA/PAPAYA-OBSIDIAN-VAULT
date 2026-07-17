@@ -10,7 +10,7 @@ powerCount: 0
 totalDmg: 2
 conditions:
   - "[[友方被埋葬]]"
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[埋葬N友方]]"
   - "[[造成N伤害]]"

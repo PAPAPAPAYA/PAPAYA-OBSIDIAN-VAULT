@@ -5,7 +5,7 @@ rarity: Common
 myStatusEffects: 无
 category: General
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[增强自身[诅咒]N]]"
   - "[[置顶N友方]]"

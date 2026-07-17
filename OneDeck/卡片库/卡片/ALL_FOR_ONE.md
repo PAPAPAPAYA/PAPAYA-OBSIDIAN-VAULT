@@ -6,7 +6,7 @@ myStatusEffects: 无
 category: General
 conditions:
   - "[[所有卡上每有一力量]]"
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[造成N伤害]]"
 relatedCards:

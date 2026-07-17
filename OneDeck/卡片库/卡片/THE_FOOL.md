@@ -5,7 +5,7 @@ rarity: Common
 myStatusEffects: 无
 category: General
 conditions:
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
   - "[[置顶力量最多的敌方]]"
 payoffs:
   - "[[造成N伤害]]"

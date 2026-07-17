@@ -10,7 +10,7 @@ powerCount: 0
 totalDmg: 6
 conditions:
   - "[[当卡被埋葬时]]"
-  - "[[揭晓时]]"
+  - "[[OneDeck/卡片库/卡片关系/条件/揭晓时]]"
 payoffs:
   - "[[置顶自身]]"
   - "[[造成N伤害]]"

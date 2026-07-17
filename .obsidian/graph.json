@@ -1,9 +1,9 @@
 {
   "collapse-filter": true,
-  "search": "path:OneDeck/卡片库/卡片",
+  "search": "path:OneDeck/卡片库/卡片  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -41,18 +41,32 @@
         "a": 1,
         "rgb": 5407200
       }
+    },
+    {
+      "query": "path:OneDeck_backup_before_relatedCards_20260627_114257/卡片库/卡片关系/条件  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:OneDeck_backup_before_relatedCards_20260627_114257/卡片库/卡片关系/收益  ",
+      "color": {
+        "a": 1,
+        "rgb": 7462994
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.76200036064194,
+  "nodeSizeMultiplier": 2.27426199261993,
   "lineSizeMultiplier": 1.06427240488069,
   "collapse-forces": true,
-  "centerStrength": 0.498550342646284,
+  "centerStrength": 0.81483921982077,
   "repelStrength": 10.141012124407,
   "linkStrength": 0.578742751713231,
-  "linkDistance": 500,
-  "scale": 0.49794035003997694,
+  "linkDistance": 264,
+  "scale": 0.497940350039977,
   "close": true
 }
